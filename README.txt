@@ -5,7 +5,7 @@
 %
 %    This demo shows the SGR methods for robust crop mapping using hyperspectral image classification with very few in-situ data.
 %
-%    fun_SGR.m ....... A function implementing the SGR model
+%    fun_SGR.p ....... A function implementing the SGR model (compiled in Matlab R2022a)
 %    sunsal.m ..........A function conducting SR using sunsal algorithm
 %    calcError.m .......A function for computing confusion matrix
 %    soft.m ............A soft thresholding function
